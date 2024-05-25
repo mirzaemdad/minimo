@@ -1,0 +1,89 @@
+
+ADOBE ILLUSTRATOR DOCUMENT INFORMATION
+
+Document:D:\SSB-619\psd\minimo.psd
+Dimensions:1200 x 3847
+Printer Resolution:800
+
+Fonts Used In This Document:5
+    PlayfairDisplay Regular
+    Inconsolata Regular
+    Ubuntu Light
+    PlayfairDisplay Black
+    PlayfairDisplay Italic
+-------
+font-family name:
+font-family: 'playfair-regular', serif;
+font-family: 'playfair-black';
+font-family: 'playfair-italic';
+font-family: 'Ubantu-light' sans-serif;
+font-family: 'inconsolata-regular';
+
+
+ui ux -
+    typhography - 2/3
+    color - 2/3
+    space...
+    consi...
+
+
+
+font-family---
+    font-family: "PlayfairDisplay"    
+
+
+
+    pixel perfect design
+section define
+layout define
+semantic markup
+
+code comment
+
+reuseable block
+    html
+    css
+
+seo
+speed optimaition
+cross browsing suport
+
+ui ux -
+    typhography - 2/3
+    color - 2/3
+    space...
+    consi...
+
+css seraial:
+    width
+    height
+    font-family
+    font-size
+    font-weight
+    color
+
+font-family---
+    font-family: "PlayfairDisplay"
+
+(semantic markup)
+    header
+    footer
+    nav
+    aside
+    article
+    section    
+
+
+most used font-family
+    font-family: 'playfair-regular', serif;
+
+most used color
+    #626262
+    #000000
+
+second color (mento eta bad diyece)
+    #b4ad9e
+
+
+
+    opore niche faka thakle ta padding diye neaw standard sestem
