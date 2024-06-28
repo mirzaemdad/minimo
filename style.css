@@ -217,19 +217,14 @@ header{
     background-color: #f0f0f0;
     color: #000;
 }
- /* .cmn{
-    text-decoration: none;
-    display: inline-block;
-    list-style: none; 
-} */
 .pages{
     width: 40%;
     float: left;
-    margin-left: -40px;
     /* border: 1px solid; */
 }
 .pages ul{
     list-style: none;
+    padding-left:0;
 }
 .pages ul li{
     float: left;
